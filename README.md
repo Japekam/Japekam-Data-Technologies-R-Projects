@@ -1,7 +1,7 @@
 # STATS-220
 ## BY JAPEKAM SINGH DANG
 
-Hi everyone, this repo is my first repo on GitHub. I am undertaking a cool course at **University of Auckland** called **Stats220**
+Hi everyone, this repo is my first repo on GitHub. I am undertaking a cool course at **University of Auckland** called **Stats220**.
 In order to pass this course with excellence, I need to demonstrate the following qualities:
    1. Undertake a broad variety of data science tasks
    2. Demonstrate understanding of programming concepts and skills associated with importing, wrangling and visualizing data for decision-  
