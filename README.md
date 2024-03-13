@@ -16,4 +16,6 @@ Apart from this course, I am also enrolled in the following other courses in thi
   * ***STATS225*** 📈
   * ***COMPSCI220*** 🧑‍💻
 
+Link to my LinkedIn - https://www.linkedin.com/in/japekam-singh-dang-271723263/
+
 LET'S GO GitHub! 
