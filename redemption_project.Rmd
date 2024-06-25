@@ -1,0 +1,74 @@
+---
+title: "Redemption Project"
+author: "Japekam Singh Dang"
+output:
+  html_document:
+    code_folding: hide
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=TRUE, message=FALSE, warning=FALSE, error=FALSE)
+library(tidyverse)
+library(ggplot2)
+```
+
+```{css echo=FALSE}
+body {
+  font-family: 'Verdana', sans-serif;
+  font-size: 16px; /* Changing the default font size */
+  background-color: #E8ECE2; /* Adding light background */
+  color: #191870; /* Changing the text color to royal blue */
+}
+
+p {
+  font-family: 'Georgia', serif;
+  color: #191870; /* Ensuring paragraphs have royal blue text color */
+}
+
+h1, h2, h3 {
+  font-family: 'Times New Roman', serif;
+  font-weight: bold; /* Making headings bold */
+  color:#191870; /* Ensuring headings have royal blue text color */
+}
+``` 
+
+## Explanation
+
+This redemption project aims to regain the marks that I lost in Project 2 by addressing the specific issue of not using response validation in numeric responses. This project also includes new visualizations with correct color themes(I tried my best 😃) and detailed descriptions to redeem the marks that I lost in Project 4.
+
+## ***Marks Lost and Redemption***
+
+***In Project 2***, I lost a mark for not enabling response validation on numeric responses in the Google Form. To address this, I have created a new Google Form titled "Weekly Music Consumption Survey" with proper response validation.
+
+You can view the form [here](https://docs.google.com/forms/d/e/1FAIpQLSdMmRyxCNBNAiN-1Ke_K41XrLQdIjfiNb--FBxB1ClV4MgypA/viewform?usp=sf_link).
+
+***In Project 4***, I lost marks for not using the correct color theme and not describing what my visualizations show. To rectify my mistake, I added a title and a subtitle in all the new plots that I created. I also changed the color theme and used this [website](https://www.shutterstock.com/blog/color-palettes-for-websites?gclsrc=aw.ds&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9MjQwixsPKuVWYuPTthJ-p-Z6kiGtZqfwKMd7M7qSCmyQWrbu0QCQAaAr_vEALw_wcB&kw=&gad_source=1) to get references for my color pallete as suggested by Anna! For my ggplot color changes, I used scale_fill_manual and scale_color_manual functions. For creativity, I saw all the logos of the music streaming platforms and used their primary color to represent them.
+
+P.S - I did not lose a mark for not echoing my css chunk in project 4, but I was told to follow the instruction(in the rubric). Now, I have made the required change.😃
+
+The following section includes new visualizations with the specified color theme and detailed descriptions.
+
+### ***Plot 1***
+
+![](plot1.png)
+
+### ***Plot 2***
+
+![](plot2.png)
+
+### ***Plot 3***
+
+![](plot3.png)
+
+### ***Plot 4***
+
+![](plot4.png)
+
+### ***Plot 5***
+
+![](plot5.png)
+
+## Appendix
+
+```{r file='File1.R'}
+
+```
